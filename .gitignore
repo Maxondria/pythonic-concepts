@@ -1,0 +1,4 @@
+parse-and-rename-multiple-files/music-files/
+__pycache__/
+.DS_Store
+parse-and-rename-multiple-files/.DS_Store
